@@ -1,7 +1,7 @@
 # Análise de Entregas de Delivery com Python
 
 ## Aluno
-- [Israel Nicolas Amorim Corrêa]
+- Israel Nicolas Amorim Corrêa
 
 ## Perguntas Investigadas
 1. Qual é o horário de maior movimento no delivery?
